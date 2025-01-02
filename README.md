@@ -1,4 +1,4 @@
-# programação-de-aplicativos---jogo-da-memoria
+# Jogo-da-memoria
 Atividade final da materia.
 A aplicação esta na branche master.
 O apk está em app/release.
